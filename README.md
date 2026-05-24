@@ -1,7 +1,8 @@
 # passManager
-> README made with AI
+> [!WARNING]
+> Not for production use
 
--Not for production use
+> README made with AI
 
 A lightweight command-line password manager written in C++.
 
