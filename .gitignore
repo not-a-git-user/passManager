@@ -1,0 +1,32 @@
+# Editors
+.vscode/
+/extra/
+
+# Build directories
+/build/
+/build.orig/
+/CMakeFiles/
+
+# CMake generated files
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/compile_commands.json
+/CTestTestfile.cmake
+/Testing/
+/install_manifest.txt
+
+# Binaries and objects
+/passManager
+*.o
+*.obj
+*.out
+*.a
+*.so
+
+# Local backups / scratch files
+/src.orig/
+*.orig
+
+# Misc generated files
+/*.enc
