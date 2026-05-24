@@ -1,6 +1,8 @@
 # passManager
 > README made with AI
 
+-Not for production use
+
 A lightweight command-line password manager written in C++.
 
 `passManager` stores password entries inside encrypted vault files, lets you manage multiple vaults from a terminal menu, and uses modern crypto primitives from `libsodium` and `libargon2`.
